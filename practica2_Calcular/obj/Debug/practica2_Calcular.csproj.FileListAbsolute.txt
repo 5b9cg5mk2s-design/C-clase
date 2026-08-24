@@ -1,0 +1,10 @@
+C:\Users\vikst\source\repos\practica2_Calcular\bin\Debug\practica2_Calcular.exe.config
+C:\Users\vikst\source\repos\practica2_Calcular\bin\Debug\practica2_Calcular.exe
+C:\Users\vikst\source\repos\practica2_Calcular\bin\Debug\practica2_Calcular.pdb
+C:\Users\vikst\source\repos\practica2_Calcular\obj\Debug\practica2_Calcular.csproj.AssemblyReference.cache
+C:\Users\vikst\source\repos\practica2_Calcular\obj\Debug\practica2_Calcular.Form1.resources
+C:\Users\vikst\source\repos\practica2_Calcular\obj\Debug\practica2_Calcular.Properties.Resources.resources
+C:\Users\vikst\source\repos\practica2_Calcular\obj\Debug\practica2_Calcular.csproj.GenerateResource.cache
+C:\Users\vikst\source\repos\practica2_Calcular\obj\Debug\practica2_Calcular.csproj.CoreCompileInputs.cache
+C:\Users\vikst\source\repos\practica2_Calcular\obj\Debug\practica2_Calcular.exe
+C:\Users\vikst\source\repos\practica2_Calcular\obj\Debug\practica2_Calcular.pdb

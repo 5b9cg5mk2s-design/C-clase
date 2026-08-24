@@ -1,0 +1,10 @@
+C:\Users\vikst\source\repos\Pract1-Controles\bin\Debug\Pract1-Controles.exe.config
+C:\Users\vikst\source\repos\Pract1-Controles\bin\Debug\Pract1-Controles.exe
+C:\Users\vikst\source\repos\Pract1-Controles\bin\Debug\Pract1-Controles.pdb
+C:\Users\vikst\source\repos\Pract1-Controles\obj\Debug\Pract1-Controles.csproj.AssemblyReference.cache
+C:\Users\vikst\source\repos\Pract1-Controles\obj\Debug\Pract1_Controles.Form1.resources
+C:\Users\vikst\source\repos\Pract1-Controles\obj\Debug\Pract1_Controles.Properties.Resources.resources
+C:\Users\vikst\source\repos\Pract1-Controles\obj\Debug\Pract1-Controles.csproj.GenerateResource.cache
+C:\Users\vikst\source\repos\Pract1-Controles\obj\Debug\Pract1-Controles.csproj.CoreCompileInputs.cache
+C:\Users\vikst\source\repos\Pract1-Controles\obj\Debug\Pract1-Controles.exe
+C:\Users\vikst\source\repos\Pract1-Controles\obj\Debug\Pract1-Controles.pdb
